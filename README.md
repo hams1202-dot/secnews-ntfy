@@ -1,0 +1,1 @@
+# secnews-ntfy
